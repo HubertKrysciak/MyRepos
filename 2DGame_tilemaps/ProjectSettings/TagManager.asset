@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - col
+  - plr
   layers:
   - Default
   - TransparentFX
